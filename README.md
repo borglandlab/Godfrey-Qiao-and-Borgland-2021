@@ -1,4 +1,4 @@
-# Godfrey-and-Borgland-2021
+# Godfrey-Qiao-and-Borgland-2021
 This is the MATLAB code for the analysis done in the Godfrey, Qiao, and Borgland 2021 Journal of Physiology paper entitled, "Activation of LH GABAergic inputs counteracts fasting-induced changes in tVTA/RMTG neurons"
 
 Minis – no code
